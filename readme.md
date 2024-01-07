@@ -8,4 +8,4 @@ To get started, install the dependencies using the command "npm install" or "npm
 
 After installing the dependencies, go ahead and start the project using `npm start`.
 
-![Uploading Screenshot 2024-01-07 140016.png…]()
+![Screenshot 2024-01-07 140016](https://github.com/AnubhavRaj980/VacationBust/assets/76939615/b2ec3e64-ea03-44ae-9b24-d297237089db)
